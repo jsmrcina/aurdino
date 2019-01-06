@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "button.ino",
+    "sketch": "morse.ino",
     "port": "COM3",
     "output": "C:\\Users\\jsmrc\\Documents\\Arduino\\jsmrcina\\build"
 }
