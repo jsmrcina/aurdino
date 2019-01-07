@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "sketch": "morse.ino",
     "port": "COM3",
-    "output": "C:\\Users\\jsmrc\\Documents\\Arduino\\jsmrcina\\build"
+    "output": "C:\\Users\\jsmrc\\Documents\\Arduino\\jsmrcina\\Morse\\build"
 }

@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "dht22.ino",
+    "port": "COM3",
+    "output": "C:\\Users\\jsmrc\\Documents\\Arduino\\jsmrcina\\DHT22\\build"
+}
